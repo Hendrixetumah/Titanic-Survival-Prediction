@@ -53,7 +53,7 @@ The **Titanic Survival Prediction** project is a machine learning initiative aim
 3. **Install Required Dependencies:**
    ```bash
    pip install -r requirements.txt
-   #Ensure your requirements.txt includes packages such as pandas, numpy, scikit-learn, matplotlib, seaborn
+   
    
 4.**Download the Dataset:**
   Download the *train.csv* Titanic dataset from [kaggle competitions](https://www.kaggle.com/competitions/titanic/data)) 
