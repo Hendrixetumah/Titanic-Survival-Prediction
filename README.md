@@ -65,12 +65,13 @@ The **Titanic Survival Prediction** project is a machine learning initiative aim
   
   + Google Colab:
     Click the Colab badge above or use this link:
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] 
-    (https://colab.research.google.com/github/hendrixetumah/titanicsurvivalprediction/blob/main/notebooks/titanic_EDA.ipynb)
+    [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hendrixetumah/Titanic-Survival-Prediction/blob/main/notebooks/Titanic_Survival_Prediction_Model.ipynb)
+
 
   + Binder:
     Click the Binder badge above or use this link:
-    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YourUsername/titanic-survivalprediction/main?filepath=notebooks/titanic_EDA.ipynb)
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YourUsername/Titanic-Survival-Prediction/HEAD?labpath=notebooks/Titanic_Survival_Prediction_Model.ipynb)
+
 
   <!-- ** Note ** -->
   <!--Explore and posibly include Local Usage instructions -->
