@@ -56,8 +56,8 @@ The **Titanic Survival Prediction** project is a machine learning initiative aim
    
    
 4.**Download the Dataset:**
-  Download the *train.csv* Titanic dataset from [kaggle competitions](https://www.kaggle.com/competitions/titanic/data)) 
-  and place it in the data/ directory or update the paths in your code accordingly.
+  Download the *train.csv* Titanic dataset [here](https://github.com/hendrixetumah/Titanic-Survival-Prediction/raw/main/train.csv?download=1) or go to [kaggle competitions](https://www.kaggle.com/competitions/titanic/data)). 
+
 
 ## Usage Examples
   <!--**Online Usage**-->
